@@ -10,7 +10,7 @@ My work focuses on turning field hydrogeology and open earth-observation archive
 
 | Project | Domain & Stack | Key Result | Links |
 |---|---|---|---|
-| **Jammu Groundwater Level & Monsoon Recharge** | Physical Hydrogeology · `Python`, `Folium` | Analysed **122 CGWB stations** (777 readings, 2021–2023); mapped the 0.06–38.46 m bgl Kandi–alluvial gradient and **+1.46 m** median monsoon rise. | [Repository](https://github.com/owais-geo/jammu-groundwater-analysis) · [Live Interactive Map](https://owais-geo.github.io/jammu-groundwater-analysis/outputs/jammu_groundwater_map.html) |
+| **Jammu Groundwater Level & Monsoon Recharge** | Physical Hydrogeology · `Python`, `Folium` | Analysed **122 CGWB stations** (777 readings, 2021–2023); mapped the 0.06–38.46 m bgl Kandi–alluvial gradient and **+1.46 m** median monsoon rise. | [Repository](https://github.com/owais-geo/jammu-groundwater-analysis) · [Live Interactive Map](https://owais-geo.github.io/jammu-groundwater-analysis/jammu_groundwater_map.html) |
 | **Chenab Valley Sentinel-1 SAR Water & Shadow Audit** | Radar Remote Sensing · `Google Earth Engine`, `Sentinel-1`, `NASA OPERA` | Quantified **85.1% mountain-shadow false-positive reduction** (207.52 km² removed via SRTM slope mask) and benchmarked against NASA OPERA DSWx-S1. | [Repository](https://github.com/owais-geo/chenab-sar-water-hazard) |
 | **Bari Brahmana Groundwater Contamination Audit** | Primary Fieldwork & Hydrogeochemistry · `Python`, `SciPy` | Digitised 10 pre-monsoon lab sites (Samba industrial belt); identified **3.6× higher Nitrate** in shallow hand pumps vs. deeper wells and a BIS `65 mg/L` breach at Khidyaan, Badhori. | [Repository](https://github.com/owais-geo/bari-brahmana-groundwater-hydrochemistry) |
 
